@@ -1,13 +1,15 @@
 #tripmeter {
-        padding: 10px;
-        margin: 10px 0;
-      }
+  padding: 10px;
+  margin: 10px 0;
+}
       
-      p {
-        color: #222;
-        font: 24px Arial;
-      }
+p,
+#message {
+  color: #222;
+  font: 24px Arial;
+}
       
-      span {
-        color: #00C;
-      }
+span,
+#message {
+  color: #00C;
+}
