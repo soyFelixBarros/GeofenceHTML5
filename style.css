@@ -4,12 +4,14 @@
 }
       
 p,
+ul,
 #message {
   color: #222;
   font: 24px Arial;
 }
       
 span,
+ul,
 #message {
   color: #00C;
 }
